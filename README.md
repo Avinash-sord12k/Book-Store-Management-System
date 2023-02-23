@@ -9,7 +9,7 @@ prerequisit libraries and modules:
     json
     tkinter
  
-It is a interactive console to manage database of a typical book-store. 
+It is an interactive console to manage data base of a typical book store.
     
 It was a school project.
 In collaboration with my partner Ajay.
