@@ -1,0 +1,2 @@
+pyinstaller -w --onefile --name BSMS test.py
+[--hiddenimport=requests --hiddenimport=mysql.connector --hiddenimport=PIL]optional line
