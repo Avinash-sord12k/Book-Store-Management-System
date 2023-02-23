@@ -8,6 +8,8 @@ prerequisit libraries and modules:
     mysql-connector
     json
     tkinter
+ 
+It is a interactive console to manage database of a typical book-store. 
     
 It was a school project.
 In collaboration with my partner Ajay.
